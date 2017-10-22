@@ -1,0 +1,17 @@
+[
+  { "name":"京东01",
+    "img1":"img/cp4.jpg",
+    "img2":"img/cp3.jpg",
+    "img3":"img/cp6.jpg"
+  },
+  { "name":"京东02",
+    "img1":"img/cp4.jpg",
+    "img2":"img/cp3.jpg",
+    "img3":"img/cp6.jpg"
+  },
+  { "name":"京东03",
+    "img1":"img/cp1.jpg",
+    "img2":"img/cp2.jpg",
+    "img3":"img/cp3.jpg"
+  }
+]
